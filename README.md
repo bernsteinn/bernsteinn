@@ -1,1 +1,3 @@
-Hello. I am learning web dev, C++, C, Python, Java and whatever.
+JS, Python, C++.
+
+html is not a programming langu.....
